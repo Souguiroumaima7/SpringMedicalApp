@@ -30,9 +30,7 @@ A modern, responsive UI built using Vue.js to offer a smooth and dynamic user ex
 
 ## Development Environment:
 IntelliJ IDEA serves as the primary development environment, offering integrated tools for building, debugging, and deploying the application. Maven or Gradle is used as the build tool for dependency management.
-## Target Audience:
 
-This Patient-Portal app is ideal for healthcare providers looking to digitize their interaction with patients and provide a platform for managing appointments, medical records, and prescriptions online. It simplifies the healthcare experience, ensuring both convenience and security for all users.
 ## Target Audience:
 
 The SpringMedicalApp is designed for hospitals, clinics, and healthcare facilities that require a secure, scalable, and efficient platform for managing patient data, appointments, and communication. It is ideal for organizations looking to streamline their medical processes while maintaining high standards of security and usability for both patients and healthcare providers.
